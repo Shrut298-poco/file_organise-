@@ -1,0 +1,1 @@
+http://data.fixer.io/api/latest
